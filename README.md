@@ -14,6 +14,4 @@
 <br>
 
 <h2>JDBC</h2>
-<br>
-
-* github : [Source 참고](https://github.com/hanbinleejoy/Java_Fundamental/tree/master/src/java_20191210/)
+[Source 참고](https://github.com/hanbinleejoy/Java_Fundamental/tree/master/src/java_20191210/)

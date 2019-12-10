@@ -2,7 +2,9 @@
 
 <br>
 - 교차 Entity <br>
-![TEST](https://user-images.githubusercontent.com/41675375/70519342-1ed08500-1b7f-11ea-941d-1cc6d1f603f0.png)
+<p>
+  <img src="https://user-images.githubusercontent.com/41675375/70534257-03c13d80-1b9e-11ea-96db-e64c263e0077.png">
+</p>
 
 <br><br> 하나의 부서에 employee 여러사람이 존재할 수도 있고, (1:N관계)
 <br>한명의 employee가 과거 여러 부서의 이력이 있을 수도 있다.(1:N관계)

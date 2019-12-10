@@ -74,6 +74,4 @@ INSERT INTO test3 VALUES('이한빈');
 UPDATE dept SET dname = 'a', loc ='b'
 WHERE deptno='60';
 
-acornDROP TABLE bonus;
-
-
+DROP TABLE bonus;

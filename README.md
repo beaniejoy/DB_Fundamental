@@ -1,6 +1,3 @@
-
-
-
 <h2>SQL(Structured Query Language)</h2>
 
 <br><br>
@@ -10,3 +7,8 @@
 <br>한명의 employee가 과거 여러 부서의 이력이 있을 수도 있다.(1:N관계)
 <br>중간에 history라는 교차 Entity를 넣어서 외래키로 다 받아서 관리. 
 
+<br>
+<br>
+
+<h2>JDBC</h2>
+<a href="https://github.com/hanbinleejoy/Java_Fundamental/tree/master/src/java_20191210">Source 참고하기</

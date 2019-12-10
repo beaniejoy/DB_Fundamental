@@ -45,7 +45,6 @@ UPDATE member SET NAME='bb' WHERE num = 1;
 # commit 하는 순간 위에 모든 것이 실제 실행
 COMMIT; # 끝을 알림
 
-
 # java에서 sql 실행시
 # select 성공, 실패를 출력
 # insert, delete, update는 적용(갱신)된 행 개수를 return

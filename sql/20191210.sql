@@ -75,3 +75,19 @@ UPDATE dept SET dname = 'a', loc ='b'
 WHERE deptno='60';
 
 DROP TABLE bonus;
+
+# ordering된 DB결과에서 0번째부터 길이 5만큼만 보여주겠다.
+SELECT empno, ename, job, mgr, hiredate, sal, comm, deptno
+FROM emp
+ORDER BY hiredate DESC
+LIMIT 0, 5;
+
+# date_format을 이용해 날짜를 뽑아올 수 있다. String으로 변환된다.
+# 보통 길어지는 것을 싫어해 날짜 표기때 /를 이용한다.
+SELECT empno, ename, job, mgr, DATE_FORMAT(hiredate, '%Y/%m/%d'), sal, comm, deptno
+FROM emp
+ORDER BY hiredate DESC
+LIMIT 0, 5;
+
+SELECT *
+FROM emp;

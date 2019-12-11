@@ -14,6 +14,6 @@
 <br>
 
 <h2>JDBC</h2>
-<a href="https://github.com/hanbinleejoy/Java_Fundamental/tree/master/src/java_20191210/">Source 참고</a>
 
-> How come you are so sweet!!
+[source 참고하기](https://github.com/hanbinleejoy/Java_Fundamental/tree/master/src/java_20191210/)
+

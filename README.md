@@ -1,4 +1,4 @@
-<h2>SQL(Structured Query Language)</h2>
+### SQL(Structured Query Language)
 
 <br>
 - 교차 Entity <br>
@@ -13,7 +13,7 @@
 <br>
 <br>
 
-<h2>JDBC</h2>
+### JDBC
 
 [source 참고하기](https://github.com/hanbinleejoy/Java_Fundamental/tree/master/src/java_20191210/)
 

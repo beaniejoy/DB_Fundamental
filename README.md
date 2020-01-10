@@ -1,4 +1,8 @@
-### SQL(Structured Query Language)
+# Database Fundamental (MariaDB)
+
+About mariaDB Query (DQL, DML, TCL)  
+
+## SQL(Structured Query Language)
 
 <br>
 - 교차 Entity <br>
@@ -13,10 +17,10 @@
 <br>
 <br>
 
-### JDBC
+## JDBC
 
 [source 참고하기](https://github.com/hanbinleejoy/Java_Fundamental/tree/master/src/java_20191210/)
 
-### 주의사항
+## 주의사항
 
 - DELETE 쿼리 실행시 Foreign Key가 참조하고 있는 데이터는 삭제가 불가능하다. (상당히 주의해야함)

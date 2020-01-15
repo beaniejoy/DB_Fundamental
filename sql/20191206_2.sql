@@ -7,7 +7,6 @@ WHERE comm IS NULL; # NOT NULL은 반대
 SELECT CONCAT(ename, '의 직업은 ', job, '입니다.')
 FROM emp;
 
-
 SELECT CONCAT(ename, ' 님') AS NAME
 FROM emp;
 
